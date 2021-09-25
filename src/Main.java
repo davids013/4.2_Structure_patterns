@@ -1,3 +1,4 @@
+import BinaryFacade_2.MainBinaryFacade;
 import Calculator_1.MainCalculator;
 
 public class Main {
@@ -8,5 +9,6 @@ public class Main {
                 """);
 
         MainCalculator.main(null);
+        MainBinaryFacade.main(null);
     }
 }
